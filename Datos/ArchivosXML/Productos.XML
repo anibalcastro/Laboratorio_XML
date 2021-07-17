@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Productos>
+  <Producto>
+    <id>1</id>
+    <nombre>Ceviche</nombre>
+    <precio>2900</precio>
+    <descripcion>A base de mariscos y jugo de
+limón.</descripcion>
+    <calorias>400</calorias>
+    <cantidad>9</cantidad>
+  </Producto>
+  <Producto>
+    <id>2</id>
+    <nombre>Arroz con Pollo</nombre>
+    <precio>3500</precio>
+    <descripcion>Arroz con pollo doña Luisa</descripcion>
+    <calorias>480</calorias>
+    <cantidad>12</cantidad>
+  </Producto>
+  <Producto>
+    <id>3</id>
+    <nombre>Cordon Blue</nombre>
+    <precio>5000</precio>
+    <descripcion>Pollo en salsa de hongos</descripcion>
+    <calorias>670</calorias>
+    <cantidad>7</cantidad>
+  </Producto>
+  <Producto>
+    <id>4</id>
+    <nombre>Hamburguesa</nombre>
+    <precio>2500</precio>
+    <descripcion>Hamburguesa Angus</descripcion>
+    <calorias>600</calorias>
+    <cantidad>7</cantidad>
+  </Producto>
+</Productos>

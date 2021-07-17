@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Login>
+  <usuario>
+    <cedula>208110305</cedula>
+    <nombre>Anibal Castro</nombre>
+    <genero>Masculino</genero>
+    <usuario>admin</usuario>
+    <contrasenna>admin</contrasenna>
+    <rol>0</rol>
+  </usuario>
+  <usuario>
+    <cedula>603030996</cedula>
+    <nombre>Massiel Ponce</nombre>
+    <genero>Femenino</genero>
+    <usuario>603030996</usuario>
+    <contrasenna>123</contrasenna>
+    <rol>1</rol>
+  </usuario>
+  <usuario>
+    <cedula>204310766</cedula>
+    <nombre>Francisco Miranda</nombre>
+    <genero>Masculino</genero>
+    <usuario>Fran</usuario>
+    <contrasenna>123</contrasenna>
+    <rol>1</rol>
+  </usuario>
+  <usuario>
+    <cedula>206300880</cedula>
+    <nombre>Allison Brenes</nombre>
+    <genero>Femenino</genero>
+    <usuario>Alli</usuario>
+    <contrasenna>123</contrasenna>
+    <rol>1</rol>
+  </usuario>
+  <usuario>
+    <cedula>241258632</cedula>
+    <nombre>Juanito</nombre>
+    <genero>Masculino</genero>
+    <usuario>Torpedo</usuario>
+    <contrasenna>123</contrasenna>
+    <rol>1</rol>
+  </usuario>
+</Login>
